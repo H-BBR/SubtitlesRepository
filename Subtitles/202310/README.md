@@ -4,4 +4,4 @@
 
 | 中文译名 | 官方作品名 | 官方简称 | 官方英语译名 | 官方港澳台地区译名 | 字幕组简称 | 字幕组状态 | 字幕链接 | 备注 |
 | ------- | ----------| -------- | ---------- | ----------------- | --------- | --------- | -------- | --- |
-| 16bit的感动 - Another Layer | 16bitセンセーション ANOTHER LAYER | 16bitAL | 16bit Sensation - Another Layer | 16bit 的感動 ANOTHER LAYER | 16bit | 随TV连载中（咕咕咕中） | [字幕文件](お兄ちゃんはおしまい！/) | N/A |
+| 16bit的感动 - Another Layer | 16bitセンセーション ANOTHER LAYER | 16bitAL | 16bit Sensation - Another Layer | 16bit 的感動 ANOTHER LAYER | 16bit | 随TV连载中（咕咕咕中） | [字幕文件](16bit的感动_Another_Layer/) | N/A |
