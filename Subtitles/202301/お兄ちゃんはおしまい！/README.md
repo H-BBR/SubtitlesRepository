@@ -9,7 +9,6 @@
  - [歌曲](Songs/)
    - [简日双语](Songs/zh-cn_ja/)
  - [字体](Fonts/)
-   - [下载字体包](Fonts/Fonts.7z)
 
 ## 状态
 
