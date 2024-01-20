@@ -8,7 +8,9 @@
    - [简体中文](Main/zh-cn/)
  - [歌曲](Songs/)
    - [简日双语](Songs/zh-cn_ja/)
+ - [字体](Fonts/)
+   - [下载字体包](Fonts/Fonts.7z)
 
 ## 状态
 
- - 随TV连载中。
+ - 合集待校对
